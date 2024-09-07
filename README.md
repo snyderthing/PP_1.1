@@ -1,0 +1,1 @@
+Java Foundations - Introduction to Program Design & Data Structures, 4th Edition - authors John Lewis, Peter Depasquale, and Joseph Chase. This book has programming projects for Java that I am trying to write in JavaScript.
